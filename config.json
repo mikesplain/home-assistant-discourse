@@ -1,0 +1,10 @@
+{
+  "name": "Discourse",
+  "version": "1",
+  "slug": "discourse",
+  "description": "Home Assistant Discourse addon",
+  "startup": "application",
+  "boot": "auto",
+  "options": {},
+  "schema": {}
+}
