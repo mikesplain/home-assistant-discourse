@@ -16,4 +16,4 @@ jobs:
             --test \
             --all \
             --target . \
-            --docker-hub ghcr.io/mikesplain/home-assistant-discourse
+            --generic ghcr.io/mikesplain/home-assistant-discourse
